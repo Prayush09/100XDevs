@@ -1,0 +1,24 @@
+{
+  "name": "week-9",
+  "version": "1.0.0",
+  "description": "Today's agenda\r     React - Why we use it? \r             For static websites you don't need react\r             But if you have a dynamic website, you're life will be much easier when  you use react.\r             The bundle size increases but the developer experience is very nice compared to vanilla JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.7",
+    "@babel/preset-env": "^7.25.7",
+    "@babel/preset-react": "^7.25.7",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
